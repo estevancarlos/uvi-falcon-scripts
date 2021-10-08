@@ -44,7 +44,7 @@ Some widgets offer the option of a custom user interface graphic. It requires th
 `filterKnob:setStripImage("resources/min_knob_strip.png", 15)`
 
 ### Graphic Frames
-I am using the term "frame" to describe each graphic state of a UI widget. UVI does not document any of this. As such I will use the term frame.
+I am using the term "frame" to describe each graphic state of a UI widget. UVI calls these images but doesn't go further. I will use the term frame in order to not confuse terms.
 
 The `setStripImage` method is designed to load a graphic image that contains multiple frames of UI widget. For example, a button widget may contain an off state and an on state. This means a single graphic may contain two frames--the visual depiction of the on state and a separate frame for the off state. More complicated widgets can contain many frames. The second parameter `setStripImage` method is the amount of frames within the single graphic. This is why the method uses the term "strip". It's like a comic/animatiom strip.
 
