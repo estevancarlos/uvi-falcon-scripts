@@ -2,7 +2,8 @@
 
 UVI Falcon is a sound design tool marketed as a "Hybrid Instrument". It offers 16 oscillators, 90+ effects, modulation sources, and MIDI processors with scripting. This includes the ability to design a user interface for custom scripted Falcon programs.
 
-**About this tutorial**
+## About this tutorial
+
 I am an educator and technologist focused sound design and UI design. Some information in this tutorial may be incorrect and will be updated as I continue through this learning process. The tutorial assumes your broad knowledge with scripting and modest knowledge of graphic software.
 
 ## Lua language and API
